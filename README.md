@@ -47,6 +47,8 @@ Il est destiné aux **linteaux soumis à une charge uniformément répartie**, a
 ⚠️ **Important** : Les résultats sont fournis à titre préliminaire.  
 Un **bureau d’études spécialisé** doit impérativement valider toute application en chantier.
 
+Pour accéder à la version complète avec le ferraillage automatique des arrêts de barres, des ancrages de chaque lit d'acier, du diamètre de mandrin et du retour pour le façonnage des barres selon les exigences de l'EC2, consultez [beton-guide.com](https://beton-guide.com/calcul/calcul-linteau-beton-arme-automatique-outil-gratuit-en-ligne.html).
+
 ---
 
 ## Conformité et cadre normatif
